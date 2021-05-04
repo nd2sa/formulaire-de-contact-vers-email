@@ -1,4 +1,4 @@
-# formulaire-de-contact-vers-email
+# formulaire de contact vers email
 
 Ce formulaire de contact est relié à l'adresse email choisie ligne "" de la page "index.php".<br>
 Le formulaire dispose d'un antispam.<br>
